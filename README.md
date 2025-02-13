@@ -3,3 +3,4 @@ You are given a large image (`large.bmp`) and a video as a series of zoomed in i
 # Notes
 * Also measure how much time the code takes and try to optimize it
 * `zoomed.zip` is stored using lfs so git lfs needs to be installed to clone the whole repo
+* To submit a solution fork this repo, make it private, add the solution and invite me to the repo
